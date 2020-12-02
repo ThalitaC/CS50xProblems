@@ -58,4 +58,5 @@ int main(void)
             printf("Grade %.0f\n", round(index));
         }
     }
+}
 
