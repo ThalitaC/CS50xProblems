@@ -4,15 +4,13 @@
 
 int main(void)
 
-{
-
+{   
     int quarters = 0;
     int dimes = 0;
     int nickels = 0;
     int pennies = 0;
-
-
-    //25 10 5 1
+    
+    
     float cash;
     //prompt user for change owed value
     do
