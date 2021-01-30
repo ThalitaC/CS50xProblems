@@ -5,8 +5,7 @@
 #include <math.h>
 
 int main(void)
-{
-    
+{  
     //prompt user for input text
     string text = get_string("Text: \n");
     
